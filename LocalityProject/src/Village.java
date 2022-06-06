@@ -1,4 +1,8 @@
 
-public class Village {
+public class Village extends Locality{
+
+	public Village() {	
+		
+	}
 
 }
